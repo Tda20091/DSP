@@ -256,7 +256,5 @@ void loop() {
     lcd.print("Water Level:25%");
     lcd.setCursor(0,2);
     lcd.print("Please Refill"); 
-
-   }
-  
+   }  
 }      
